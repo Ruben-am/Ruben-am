@@ -1,4 +1,31 @@
-## Hi there 👋
+## Hola, soy Rubén
+
+Estudiante de **2º DAM** interesado en el desarrollo **full-stack**.
+
+Mi interés principal es el desarrollo full-stack, con una atención especial en la creación de aplicaciones nativas para **Android**. Disfruto el proceso de integrar el *frontend* con el *backend* para construir soluciones de software funcionales y completas.
+
+Busco constantemente aplicar mis conocimientos en proyectos que me permitan crecer en este campo.
+
+:)
+
+---
+
+Lenguajes y herramientas:
+
+### 🧰 Lenguajes y Herramientas:
+<img alt="Java" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+<img alt="Kotlin" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+
+<img alt="HTML" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img alt="CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img alt="Python" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img alt="Rpi" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
+
+<img alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img alt="GitHub" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+
+<img alt="Oracle" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 
 <!--
 **Ruben-am/Ruben-am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
