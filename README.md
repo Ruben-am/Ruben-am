@@ -1,5 +1,7 @@
 ## Hola, soy Rubén
 
+<img src="./assets/gifMew.gif" alt="Saludo animado" width="50%" />
+
 :)
 
 ---
