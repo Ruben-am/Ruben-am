@@ -1,6 +1,10 @@
 ## Hola, soy Rubén
 
-<img src="./assets/gifMew.gif" alt="Saludo animado" width="50%" />
+Estudiante de **2º DAM** interesado en el desarrollo **full-stack**.
+
+Mi interés principal es el desarrollo full-stack, con una atención especial en la creación de aplicaciones nativas para **Android**. Disfruto el proceso de integrar el *frontend* con el *backend* para construir soluciones de software funcionales y completas.
+
+Busco constantemente aplicar mis conocimientos en proyectos que me permitan crecer en este campo.
 
 :)
 
@@ -21,6 +25,8 @@
 <img align="left" alt="GitHub" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
 <img align="left" alt="Oracle" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+
+<img src="./assets/gifMew.gif" alt="Saludo animado" width="50%" />
 
 <!--
 **Ruben-am/Ruben-am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
