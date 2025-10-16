@@ -1,11 +1,5 @@
 ## Hola, soy Rubén
 
-Estudiante de **2º DAM** interesado en el desarrollo **full-stack**.
-
-Mi interés principal es el desarrollo full-stack, con una atención especial en la creación de aplicaciones nativas para **Android**. Disfruto el proceso de integrar el *frontend* con el *backend* para construir soluciones de software funcionales y completas.
-
-Busco constantemente aplicar mis conocimientos en proyectos que me permitan crecer en este campo.
-
 :)
 
 ---
