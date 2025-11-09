@@ -35,8 +35,6 @@
 
 ---
 
-## GitHub Stats
-
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ruben-am&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" 
