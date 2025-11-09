@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Rubén 👋</h1>
 
-<!--
-**Ruben-am/Ruben-am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I'm a second-year Software Development student interested in Full-Stack and native Android development.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Currently studying my second year in Multi-platform Application Development (DAM).
+- I like working on both frontend and backend to build complete and functional applications.
+- I’m especially interested in native Android development.
+- I enjoy learning by building projects and improving the way I write and structure code.
+
+---
+
+## My Tech Stack
+
+<p align="center">
+  <img alt="Java" width="50" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img alt="Kotlin" width="50" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img alt="HTML5" width="50" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" width="50" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="Python" width="50" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Git" width="50" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="GitHub" width="50" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img alt="Oracle" width="50" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+  <img alt="Raspberry Pi" width="50" style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
+</p>
+
+---
+
+## My GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ruben-am&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" 
+    alt="Rubén's GitHub Stats" 
+    width="48%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruben-am&layout=compact&theme=dark&hide_border=true&langs_count=8&border_radius=10" 
+    alt="Top Languages" 
+    width="48%"
+  />
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/ProfileBackground.gif" alt="ProfileBackground" width="100%" />
+</p>
