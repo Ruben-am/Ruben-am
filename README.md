@@ -37,7 +37,7 @@
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
-      height="160"
+      width="450"
       alt="Mis Estadísticas de GitHub"
       src="https://github-readme-stats.vercel.app/api?username=ruben-am&show_rank=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=828282&icon_color=828282&show_icons=true"
     />
