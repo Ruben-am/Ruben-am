@@ -37,12 +37,14 @@
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
-      width="400"
+      width="380"
       alt="Mis Estadísticas de GitHub"
       src="https://github-readme-stats.vercel.app/api?username=ruben-am&show_rank=true&hide_border=false&bg_color=0D1117&title_color=FFFFFF&text_color=828282&icon_color=828282&show_icons=true"
     />
   </a>
 </div>
+
+#####
 
 <p align="center">
   <img src="./assets/ProfileBackground.gif" alt="ProfileBackground" width="100%"/>
