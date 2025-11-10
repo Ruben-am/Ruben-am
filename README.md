@@ -8,7 +8,7 @@
 
 <table border="0">
 <tr>
-<td width="65%" valign="top" style="border: none;">
+<td width="70%" valign="top" style="border: none;">
 
 ## About Me
 
@@ -44,9 +44,9 @@
 
 </td>
 
-<td width="35%" valign="top" align="center" style="border: none;">
+<td width="30%" valign="top" align="center" style="border: none;">
 
-<img src="./assets/SideImage.png" alt="SideImage" width="100%"/>
+<img src="./assets/SideImage2.jpg" alt="SideImage" width="100%"/>
 
 </td>
 </tr>
