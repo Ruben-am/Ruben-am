@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rubén 👋</h1>
+<h1 align="center">Hi, I'm Rubén</h1>
 
 <p align="center">
   I'm a second-year Software Development student interested in Full-Stack and native Android development.
@@ -6,9 +6,7 @@
 
 ---
 
-<table border="0">
-<tr>
-<td width="65%" valign="top" style="border: none;">
+<img src="./assets/SideImage2.jpg" alt="SideImage" width="29.5%" align="right" />
 
 ## About Me
 
@@ -34,6 +32,7 @@
 </p>
 
 ---
+## GitHub Stats
 
 <p align="center">
   <img 
@@ -41,16 +40,6 @@
     height="165"
   />
 </p>
-
-</td>
-
-<td width="35%" valign="top" align="center" style="border: none;">
-
-<img src="./assets/SideImage2.jpg" alt="SideImage" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 <p align="center">
   <img src="./assets/ProfileBackground.gif" alt="ProfileBackground" width="100%"/>
