@@ -6,7 +6,10 @@
 
 ---
 
-<img src="./assets/SideImage2.jpg" alt="SideImage" width="29.5%" align="right" />
+<picture>
+  <source media="(max-width: 600px)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP8A/wAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==">
+  <img src="./assets/SideImage2.jpg" alt="SideImage" width="27%" align="right" />
+</picture>
 
 ## About Me
 
