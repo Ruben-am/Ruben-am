@@ -19,16 +19,16 @@
 
 ### My Tech Stack
 
-<p align="center">
-  <img alt="Java" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
-  <img alt="Kotlin" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
-  <img alt="HTML5" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img alt="Python" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img alt="Git" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img alt="GitHub" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-  <img alt="Oracle" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/>
-  <img alt="Raspberry Pi" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"/>
+<p align="center">    
+  <img alt="Java" width="45" src="https://cdn.simpleicons.org/java/FFFFFF"/>
+  <img alt="Kotlin" width="45" src="https://cdn.simpleicons.org/kotlin/FFFFFF"/>
+  <img alt="HTML5" width="45" src="https://cdn.simpleicons.org/html5/FFFFFF"/>
+  <img alt="CSS3" width="45" src="https://cdn.simpleicons.org/css3/FFFFFF"/>
+  <img alt="Python" width="45" src="https://cdn.simpleicons.org/python/FFFFFF"/>
+  <img alt="Git" width="45" src="https://cdn.simpleicons.org/git/FFFFFF"/>
+  <img alt="GitHub" width="45" src="https://cdn.simpleicons.org/github/FFFFFF"/>
+  <img alt="Oracle" width="45" src="https://cdn.simpleicons.org/oracle/FFFFFF"/>
+  <img alt="Raspberry Pi" width="45" src="https://cdn.simpleicons.org/raspberrypi/FFFFFF"/>
 </p>
 
 ---
