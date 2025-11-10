@@ -6,7 +6,7 @@
 
 ---
 
-<img src="./assets/SideImage2.jpg" alt="SideImage" width="31%" align="right" />
+<img src="./assets/SideImage2.jpg" alt="SideImage" width="29%" align="right" />
 
 ### About Me
 
