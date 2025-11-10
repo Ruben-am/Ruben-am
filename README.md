@@ -6,9 +6,9 @@
 
 ---
 
-<img src="./assets/SideImage2.jpg" alt="SideImage" width="33%" align="right" />
+<img src="./assets/SideImage2.jpg" alt="SideImage" width="31%" align="right" />
 
-## About Me
+### About Me
 
 - Currently studying my second year in Multi-platform Application Development (DAM).
 - I like working on both frontend and backend to build complete and functional applications.
@@ -17,7 +17,7 @@
 
 ---
 
-## My Tech Stack
+### My Tech Stack
 
 <p align="center">
   <img alt="Java" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
@@ -32,7 +32,7 @@
 </p>
 
 ---
-## GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img 
