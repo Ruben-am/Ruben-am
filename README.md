@@ -34,12 +34,15 @@
 ---
 ### GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ruben-am&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" 
-    height="160"
-  />
-</p>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      height="160"
+      alt="Mis Estadísticas de GitHub"
+      src="https://github-readme-stats.vercel.app/api?username=ruben-am&show_rank=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=828282&icon_color=828282&show_icons=true"
+    />
+  </a>
+</div>
 
 <p align="center">
   <img src="./assets/ProfileBackground.gif" alt="ProfileBackground" width="100%"/>
