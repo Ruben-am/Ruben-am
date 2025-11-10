@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Rubén</h1>
 
-<p align="center">
+<h4 align="center">
   I'm a second-year Software Development student interested in Full-Stack and native Android development.
-</p>
+</h4>
 
 ##
 
-<img src="./assets/SideImage2.jpg" alt="SideImage" width="29%" align="right" />
+<img src="./assets/SideImage2.jpg" alt="SideImage" width="29.5%" align="right" />
 
 ### About Me
 
@@ -37,7 +37,7 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ruben-am&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" 
-    height="165"
+    height="160"
   />
 </p>
 
