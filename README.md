@@ -4,7 +4,7 @@
   I'm a second-year Software Development student interested in Full-Stack and native Android development.
 </p>
 
----
+##
 
 <img src="./assets/SideImage2.jpg" alt="SideImage" width="29%" align="right" />
 
