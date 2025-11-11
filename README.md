@@ -19,16 +19,27 @@
 
 ### My Tech Stack
 
+### My Tech Stack
+
 <p align="center">    
-  <img alt="Java" width="45" src="./assets/java_white.svg"/>
-  <img alt="Kotlin" width="45" src="https://cdn.simpleicons.org/kotlin/FFFFFF"/>
-  <img alt="HTML5" width="45" src="https://cdn.simpleicons.org/html5/FFFFFF"/>
-  <img alt="CSS3" width="45" src="./assets/css3_white.svg"/>
-  <img alt="Python" width="45" src="https://cdn.simpleicons.org/python/FFFFFF"/>
-  <img alt="Git" width="45" src="https://cdn.simpleicons.org/git/FFFFFF"/>
-  <img alt="GitHub" width="45" src="https://cdn.simpleicons.org/github/FFFFFF"/>
-  <img alt="Oracle" width="45" src="./assets/oracle_white.svg"/>
-  <img alt="Raspberry Pi" width="45" src="https://cdn.simpleicons.org/raspberrypi/FFFFFF"/>
+  <img alt="Java" width="45" src="./assets/java_white.svg#gh-dark-mode-only"/>
+  <img alt="Java" width="45" src="./assets/java_black.svg#gh-light-mode-only"/>
+  <img alt="Kotlin" width="45" src="https://cdn.simpleicons.org/kotlin/FFFFFF#gh-dark-mode-only"/>
+  <img alt="Kotlin" width="45" src="https://cdn.simpleicons.org/kotlin/000000#gh-light-mode-only"/>
+  <img alt="HTML5" width="45" src="https://cdn.simpleicons.org/html5/FFFFFF#gh-dark-mode-only"/>
+  <img alt="HTML5" width="45" src="https://cdn.simpleicons.org/html5/000000#gh-light-mode-only"/>
+  <img alt="CSS3" width="45" src="./assets/css3_white.svg#gh-dark-mode-only"/>
+  <img alt="CSS3" width="45" src="./assets/css3_black.svg#gh-light-mode-only"/>
+  <img alt="Python" width="45" src="https://cdn.simpleicons.org/python/FFFFFF#gh-dark-mode-only"/>
+  <img alt="Python" width="45" src="https://cdn.simpleicons.org/python/000000#gh-light-mode-only"/>
+  <img alt="Git" width="45" src="https://cdn.simpleicons.org/git/FFFFFF#gh-dark-mode-only"/>
+  <img alt="Git" width="45" src="https://cdn.simpleicons.org/git/000000#gh-light-mode-only"/>
+  <img alt="GitHub" width="45" src="https://cdn.simpleicons.org/github/FFFFFF#gh-dark-mode-only"/>
+  <img alt="GitHub" width="45" src="https://cdn.simpleicons.org/github/000000#gh-light-mode-only"/>
+  <img alt="Oracle" width="45" src="./assets/oracle_white.svg#gh-dark-mode-only"/>
+  <img alt="Oracle" width="45" src="./assets/oracle_black.svg#gh-light-mode-only"/>
+  <img alt="Raspberry Pi" width="45" src="https://cdn.simpleicons.org/raspberrypi/FFFFFF#gh-dark-mode-only"/>
+  <img alt="Raspberry Pi" width="45" src="https://cdn.simpleicons.org/raspberrypi/000000#gh-light-mode-only"/>
 </p>
 
 ---
