@@ -75,7 +75,7 @@
     <img 
       width="375"
       alt="Mis Estadísticas de GitHub"
-      src="https://github-readme-stats.vercel.app/api?username=ruben-am&show_rank=true&hide_border=false&bg_color=0D1117&title_color=FFFFFF&text_color=828282&icon_color=828282&show_icons=true&cache_seconds=7200"
+      src="https://github-readme-stats.vercel.app/api?username=ruben-am&show_rank=true&hide_border=false&bg_color=0D1117&title_color=FFFFFF&text_color=828282&icon_color=828282&show_icons=true&cache_seconds=43200"
     />
   </a>
 </div>
