@@ -1,0 +1,30 @@
+name: Actualizar GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Se ejecuta automáticamente a medianoche (UTC) todos los días
+  workflow_dispatch: # Te permite ejecutarlo manualmente desde la pestaña "Actions"
+
+# Le damos permiso al bot para que pueda subir el archivo al repositorio
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Descargar estadísticas de GitHub
+        run: |
+          # El parámetro -f hace que curl aborte si la API está caída
+          curl -f "https://github-readme-stats.vercel.app/api?username=ruben-am&show_rank=true&hide_border=false&bg_color=0D1117&title_color=FFFFFF&text_color=828282&icon_color=828282&show_icons=true&count_private=true" -o assets/github-stats.svg
+          
+      - name: Guardar y subir los cambios (Commit & Push)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats.svg
+          # Solo hace commit si las estadísticas realmente han cambiado
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Actualizar estadísticas de GitHub" && git push)
