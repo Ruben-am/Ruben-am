@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rubén</h1>
 
 <h4 align="center">
-  I'm a second-year Software Development student interested in Full-Stack and native Android development.
+  I'm a Software Developer interested in Full-Stack and native Android development.
 </h4>
 
 ##
@@ -10,10 +10,10 @@
 
 ### About Me
 
-- Currently studying my second year in Multi-platform Application Development (DAM).
 - I like working on both frontend and backend to build complete and functional applications.
-- I’m especially interested in native Android development.
+- I'm interested in native Android development and how software work internally.
 - I enjoy learning by building projects and refining how I structure code.
+- I built my programming foundations studying Multi-platform App Development (DAM).
 
 ---
 
