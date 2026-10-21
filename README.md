@@ -13,7 +13,7 @@
 - I like working on both frontend and backend to build complete and functional applications.
 - I'm interested in native Android development and how software work internally.
 - I enjoy learning by building projects and refining how I structure code.
-- I built my programming foundations studying Multi-platform App Development (DAM).
+- I built my programming foundations studying DAM and started at 42 Madrid.
 
 ---
 
@@ -70,15 +70,25 @@
 ---
 ### GitHub Stats
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/ruben-am">
-    <img 
+    <img
+      align="center"
       width="375"
-      alt="Mis Estadísticas de GitHub"
+      alt="GitHub Stats"
       src="./assets/github-stats.svg"
     />
   </a>
-</div>
+  &nbsp;&nbsp;
+  <a href="https://profile.intra.42.fr/">
+    <img
+      align="center"
+      width="230"
+      alt="42 Madrid Stats"
+      src="./assets/42-stats.svg"
+    />
+  </a>
+</p>
 
 #####
 
