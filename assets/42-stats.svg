@@ -1,47 +1,159 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="300" height="195" viewBox="0 0 300 195"
-     role="img" aria-labelledby="title desc">
-  <title id="title">42 Madrid Stats — ruben-am</title>
-  <desc id="desc">Square 42 Madrid profile card showing login, Intra level and current project.</desc>
-  <defs>
-    <style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="150.98787"
+   height="195.98787"
+   viewBox="0 0 150.98787 195.98787"
+   role="img"
+   aria-labelledby="title desc"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="42-stats.svg"
+   xml:space="preserve"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><sodipodi:namedview
+     id="namedview9"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="true"
+     inkscape:zoom="5.8526684"
+     inkscape:cx="71.847569"
+     inkscape:cy="95.426557"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9"><inkscape:grid
+       id="grid9"
+       units="px"
+       originx="0.49393249"
+       originy="0.49393249"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" /></sodipodi:namedview><title
+     id="title">42 Madrid Stats — ruben-am</title><desc
+     id="desc">Square 42 Madrid profile card showing login, Intra level and current project.</desc><defs
+     id="defs1"><style
+       id="style1">
       .header { font: 600 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #FFFFFF; }
       .eyebrow { font: 600 7.3px 'Segoe UI', Ubuntu, Sans-Serif; letter-spacing: .55px; fill: #828282; }
       .label { font: 600 9px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; letter-spacing: .5px; fill: #828282; }
       .value { font: 600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #FFFFFF; }
       .muted { font: 500 9px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #828282; }
-    </style>
-  </defs>
-
-  <!-- Square card artwork: 195x195. Transparent space on the right preserves
-       the existing README <img width="300"> layout without editing the README. -->
-  <rect x="0.5" y="0.5" width="194" height="194" rx="4.5"
-        stroke="#e4e2e2" stroke-width="1" fill="#0D1117" />
-
-  <!-- Header -->
-  <rect x="15" y="14" width="34" height="34" rx="6.5"
-        fill="#0D1117" stroke="#828282" stroke-opacity="0.75" />
-  <text x="32" y="35.5" text-anchor="middle"
-        font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="15.5" font-weight="700"
-        fill="#FFFFFF">42</text>
-  <text class="header" x="58" y="29.5">ruben-am</text>
-  <text class="eyebrow" x="58" y="42.5">42 MADRID | CADET</text>
-
-  <line x1="15" y1="59" x2="180" y2="59"
-        stroke="#828282" stroke-opacity="0.38" />
-
-  <!-- Stacked stats keep the card square and avoid squeezing long project names. -->
-  <text class="label" x="16" y="78">INTRA LEVEL</text>
-  <text class="value" x="16" y="99">1 - 39%</text>
-
-  <line x1="15" y1="111" x2="180" y2="111"
-        stroke="#828282" stroke-opacity="0.38" />
-
-  <text class="label" x="16" y="130">CURRENT PROJECT</text>
-  <text class="value" x="16" y="151">get_next_line</text>
-
-  <line x1="15" y1="164" x2="180" y2="164"
-        stroke="#828282" stroke-opacity="0.38" />
-  <circle cx="18" cy="179" r="2.5" fill="#828282" />
-  <text class="muted" x="27" y="182">42 MADRID</text>
-</svg>
+    </style></defs><!-- Square card artwork: 195x195. Transparent space on the right preserves
+       the existing README <img width="300"> layout without editing the README. --><rect
+     x="0.49393249"
+     y="0.49393249"
+     width="150"
+     height="195"
+     rx="3.4793816"
+     stroke="#e4e2e2"
+     stroke-width="0.987865"
+     fill="#0d1117"
+     id="rect1" /><!-- Header --><g
+     id="g9"
+     transform="translate(0.49393249,0.90472426)"><text
+       class="header"
+       x="57.779343"
+       y="30.281933"
+       id="text3"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:normal;font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">ruben-am</text><text
+       class="eyebrow"
+       x="58.699947"
+       y="43.281933"
+       id="text4"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.3px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif">42 MADRID | CADET</text></g><line
+     x1="15.493933"
+     y1="60.493931"
+     x2="135.49393"
+     y2="60.493931"
+     stroke="#828282"
+     stroke-opacity="0.38"
+     id="line4"
+     style="stroke-width:0.852803" /><!-- Stacked stats keep the card square and avoid squeezing long project names. --><text
+     class="label"
+     x="14.720495"
+     y="79.798615"
+     id="text5"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9px;line-height:normal;font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">INTRA LEVEL</text><text
+     class="value"
+     x="14.283972"
+     y="99.820099"
+     id="text6"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Level 1 - 39%</text><line
+     x1="15.493933"
+     y1="112.99393"
+     x2="135.49393"
+     y2="112.99393"
+     stroke="#828282"
+     stroke-opacity="0.38"
+     id="line6"
+     style="stroke-width:0.852803" /><g
+     id="g13"
+     transform="translate(0,0.12451172)"><text
+       class="label"
+       x="15.493933"
+       y="130.49393"
+       id="text7"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9px;line-height:normal;font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">CURRENT PROJECT</text><text
+       class="value"
+       x="14.912878"
+       y="150.85721"
+       id="text8"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">get_next_line</text></g><line
+     x1="15.493933"
+     y1="165.49393"
+     x2="135.49393"
+     y2="165.49393"
+     stroke="#828282"
+     stroke-opacity="0.38"
+     id="line8"
+     style="stroke-width:0.852803" /><g
+     id="g12"
+     transform="translate(-0.00606751,-1.7096808)"><circle
+       cx="18"
+       cy="179"
+       r="2.5"
+       fill="#828282"
+       id="circle8" /><text
+       class="muted"
+       x="27"
+       y="182.20361"
+       id="text9"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9px;line-height:normal;font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">42 MADRID</text></g><g
+     id="g11"
+     transform="translate(0.99393249,1.9939325)"><rect
+       x="15"
+       y="14"
+       width="34"
+       height="34"
+       rx="6.5"
+       fill="#0d1117"
+       stroke="#828282"
+       stroke-opacity="0.75"
+       id="rect2" /><g
+       style="fill:#ffffff;fill-opacity:1"
+       id="g10"
+       transform="matrix(0.77886156,0,0,0.77886156,22.653661,21.653661)"><path
+         d="m 24,12.42 -4.428,4.415 H 24 Z m -4.428,-4.417 -4.414,4.418 v 4.414 h 4.414 V 12.42 L 24,8.003 V 3.575 h -4.428 z m -4.414,0 4.414,-4.428 H 15.158 Z M 0,15.996 h 8.842 v 4.43 h 4.412 V 12.42 H 4.428 L 13.254,3.574 H 8.842 L 0,12.421 Z"
+         id="path1"
+         style="fill:#ffffff;fill-opacity:1" /></g></g><metadata
+     id="metadata12"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>42 Madrid Stats — ruben-am</dc:title></cc:Work></rdf:RDF></metadata></svg>

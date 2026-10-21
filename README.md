@@ -80,7 +80,7 @@
   &nbsp;&nbsp;
     <img
       align="center"
-      width="238"
+      width="120"
       alt="42 Madrid Stats"
       src="./assets/42-stats.svg"
     />
