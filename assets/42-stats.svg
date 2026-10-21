@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    width="150.98787"
-   height="195.98787"
-   viewBox="0 0 150.98787 195.98787"
+   height="195"
+   viewBox="0 0 150.98787 195"
    role="img"
    aria-labelledby="title desc"
    version="1.1"
@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="true"
-     inkscape:zoom="2.0692308"
-     inkscape:cx="19.572491"
-     inkscape:cy="43.73606"
+     inkscape:zoom="11.313709"
+     inkscape:cx="61.385707"
+     inkscape:cy="200.42058"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -59,13 +59,13 @@
       .muted { font: 500 9px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #828282; }
     </style></defs><!-- Square card artwork: 195x195. Transparent space on the right preserves
        the existing README <img width="300"> layout without editing the README. --><rect
-     x="0.49393249"
-     y="0.49393249"
-     width="150"
-     height="194"
-     rx="3.4793816"
+     x="0.49398687"
+     y="0.49398687"
+     width="149.99989"
+     height="193.04286"
+     rx="3.4793789"
      stroke="#e4e2e2"
-     stroke-width="0.985329"
+     stroke-width="0.982895"
      fill="#0d1117"
      id="rect1" /><!-- Header --><g
      id="g9"
