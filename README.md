@@ -74,7 +74,7 @@
   <a href="https://github.com/ruben-am">
     <img
       align="center"
-      width="375"
+      width="350"
       alt="GitHub Stats"
       src="./assets/github-stats.svg"
     />
@@ -83,7 +83,7 @@
   <a href="https://profile.intra.42.fr/">
     <img
       align="center"
-      width="230"
+      width="190"
       alt="42 Madrid Stats"
       src="./assets/42-stats.svg"
     />
