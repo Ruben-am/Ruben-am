@@ -73,14 +73,14 @@
 <p align="center">
     <img
       align="center"
-      width="375"
+      height="156"
       alt="GitHub Stats"
       src="./assets/github-stats.svg"
     />
   &nbsp;&nbsp;
     <img
       align="center"
-      width="120"
+      height="156"
       alt="42 Madrid Stats"
       src="./assets/42-stats.svg"
     />
