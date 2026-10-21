@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="284.82996"
+   width="256.82993"
    height="195"
-   viewBox="0 0 284.82996 195"
+   viewBox="0 0 256.82993 195"
    role="img"
    aria-labelledby="title desc"
    version="1.1"
@@ -25,9 +25,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="170.76629"
-     inkscape:cy="46.315494"
+     inkscape:zoom="2"
+     inkscape:cx="118.75"
+     inkscape:cy="153.25"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -50,22 +50,32 @@
     </style>
   </defs>
   <rect
-     x="0.43581849"
-     y="0.43581849"
-     width="283.95831"
-     height="194.12836"
-     rx="3.4166112"
+     x="0.413856"
+     y="0.413856"
+     width="256.00223"
+     height="194.17229"
+     rx="3.0802412"
      stroke="#e4e2e2"
      fill="#0d1117"
      id="rect1"
-     style="stroke-width:0.871637" />
+     style="stroke-width:0.827712" />
   <!-- The visible username is the GitHub login for now; confirm if the Intra login differs. -->
   <!-- Replace the em dashes with confirmed Intra values. -->
+  <line
+     x1="22.584099"
+     y1="68"
+     x2="237.72073"
+     y2="68"
+     stroke="#828282"
+     stroke-opacity="0.38"
+     id="line5-4-5"
+     style="stroke-width:0.806201" />
   <g
-     id="g3"
-     transform="translate(0.35921938)">
+     id="g7"
+     transform="translate(-1.3750066,5.2499995)">
     <g
-       id="g2">
+       id="g2"
+       transform="translate(0.35921938)">
       <rect
          x="22"
          y="18"
@@ -88,20 +98,20 @@
     </g>
     <text
        class="title"
-       x="72"
+       x="72.359222"
        y="33"
        data-profile-field="login"
        id="text3"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif">ruben-am</text>
     <text
        class="eyebrow"
-       x="72"
+       x="72.359222"
        y="49"
        id="text4"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.5px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif">42 MADRID</text>
     <g
        id="g1"
-       transform="translate(-78.289962)">
+       transform="translate(-103.18074)">
       <rect
          x="289.51511"
          y="20.916609"
@@ -125,69 +135,71 @@
          id="text5">CADET</text>
     </g>
     <line
-       x1="22.22488"
-       y1="68"
-       x2="262.61151"
-       y2="68"
-       stroke="#828282"
-       stroke-opacity="0.38"
-       id="line5"
-       style="stroke-width:0.8522" />
-    <line
-       x1="22.224882"
+       x1="22.584101"
        y1="145"
-       x2="262.61151"
+       x2="237.72073"
        y2="145"
        stroke="#828282"
        stroke-opacity="0.38"
        id="line5-4"
-       style="stroke-width:0.8522" />
-    <text
-       class="label"
-       x="23"
-       y="91"
-       id="text6"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif">INTRA LEVEL</text>
-    <text
-       class="value"
-       x="23"
-       y="119"
-       data-profile-field="level"
-       id="text7"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif">Level 1 - 39%</text>
+       style="stroke-width:0.806201" />
+    <g
+       id="g5"
+       transform="translate(0.35921938)">
+      <text
+         class="label"
+         x="23"
+         y="91"
+         id="text6"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif">INTRA LEVEL</text>
+      <text
+         class="value"
+         x="23"
+         y="119"
+         data-profile-field="level"
+         id="text7"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif">Lvl 1 - 39%</text>
+    </g>
     <line
-       x1="143"
+       x1="113.70297"
        y1="80"
-       x2="143"
+       x2="113.70297"
        y2="134"
        stroke="#828282"
        stroke-opacity="0.38"
        id="line7" />
-    <text
-       class="label"
-       x="162"
-       y="91"
-       id="text8"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif">CURRENT PROJECT</text>
-    <text
-       class="value"
-       x="162"
-       y="119"
-       data-profile-field="project"
-       id="text9"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif">get_next_line</text>
-    <circle
-       cx="26"
-       cy="164"
-       r="3"
-       fill="#828282"
-       id="circle9" />
-    <text
-       class="muted"
-       x="36"
-       y="167"
-       id="text10"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif">42 MADRID</text>
+    <g
+       id="g4"
+       transform="translate(-29.390781)">
+      <text
+         class="label"
+         x="162"
+         y="91"
+         id="text8"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif">CURRENT PROJECT</text>
+      <text
+         class="value"
+         x="162"
+         y="119"
+         data-profile-field="project"
+         id="text9"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif">get_next_line</text>
+    </g>
+    <g
+       id="g6">
+      <circle
+         cx="26.359219"
+         cy="164"
+         r="3"
+         fill="#828282"
+         id="circle9" />
+      <text
+         class="muted"
+         x="36.359219"
+         y="167"
+         id="text10"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif">42 MADRID</text>
+    </g>
   </g>
   <metadata
      id="metadata3">
