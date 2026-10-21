@@ -1,213 +1,47 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="256.82993"
-   height="195"
-   viewBox="0 0 256.82993 195"
-   role="img"
-   aria-labelledby="title desc"
-   version="1.1"
-   id="svg11"
-   sodipodi:docname="42-stats.svg"
-   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <sodipodi:namedview
-     id="namedview11"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     inkscape:zoom="2"
-     inkscape:cx="118.75"
-     inkscape:cy="153.25"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg11" />
-  <title
-     id="title">42 Madrid Stats — ruben-am</title>
-  <desc
-     id="desc">Compact 42 Madrid profile card showing login, Intra level and current project fields.</desc>
-  <defs
-     id="defs1">
-    <style
-       id="style1">
-      .title { font: 600 17px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF; }
-      .eyebrow { font: 600 8.5px 'Segoe UI', Ubuntu, Sans-Serif; letter-spacing: 1.15px; fill: #828282; }
-      .label { font: 600 9px 'Segoe UI', Ubuntu, Sans-Serif; letter-spacing: .6px; fill: #828282; }
-      .value { font: 600 15px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF; }
-      .muted { font: 500 9px 'Segoe UI', Ubuntu, Sans-Serif; fill: #828282; }
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="300" height="195" viewBox="0 0 300 195"
+     role="img" aria-labelledby="title desc">
+  <title id="title">42 Madrid Stats — ruben-am</title>
+  <desc id="desc">Square 42 Madrid profile card showing login, Intra level and current project.</desc>
+  <defs>
+    <style>
+      .header { font: 600 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #FFFFFF; }
+      .eyebrow { font: 600 7.3px 'Segoe UI', Ubuntu, Sans-Serif; letter-spacing: .55px; fill: #828282; }
+      .label { font: 600 9px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; letter-spacing: .5px; fill: #828282; }
+      .value { font: 600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #FFFFFF; }
+      .muted { font: 500 9px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #828282; }
     </style>
   </defs>
-  <rect
-     x="0.413856"
-     y="0.413856"
-     width="256.00223"
-     height="194.17229"
-     rx="3.0802412"
-     stroke="#e4e2e2"
-     fill="#0d1117"
-     id="rect1"
-     style="stroke-width:0.827712" />
-  <!-- The visible username is the GitHub login for now; confirm if the Intra login differs. -->
-  <!-- Replace the em dashes with confirmed Intra values. -->
-  <line
-     x1="22.584099"
-     y1="68"
-     x2="237.72073"
-     y2="68"
-     stroke="#828282"
-     stroke-opacity="0.38"
-     id="line5-4-5"
-     style="stroke-width:0.806201" />
-  <g
-     id="g7"
-     transform="translate(-1.3750066,5.2499995)">
-    <g
-       id="g2"
-       transform="translate(0.35921938)">
-      <rect
-         x="22"
-         y="18"
-         width="38"
-         height="38"
-         rx="7"
-         fill="#0d1117"
-         stroke="#828282"
-         stroke-opacity="0.75"
-         id="rect2" />
-      <text
-         x="41"
-         y="42.5"
-         text-anchor="middle"
-         font-family="'Segoe UI', Ubuntu, Sans-Serif"
-         font-size="17px"
-         font-weight="700"
-         fill="#ffffff"
-         id="text2">42</text>
-    </g>
-    <text
-       class="title"
-       x="72.359222"
-       y="33"
-       data-profile-field="login"
-       id="text3"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif">ruben-am</text>
-    <text
-       class="eyebrow"
-       x="72.359222"
-       y="49"
-       id="text4"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.5px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif">42 MADRID</text>
-    <g
-       id="g1"
-       transform="translate(-103.18074)">
-      <rect
-         x="289.51511"
-         y="20.916609"
-         width="50.969757"
-         height="21.166782"
-         rx="7.2321954"
-         fill="none"
-         stroke="#828282"
-         stroke-opacity="0.7"
-         id="rect4"
-         style="stroke-width:0.833217" />
-      <text
-         x="314.89001"
-         y="34.5"
-         text-anchor="middle"
-         font-family="'Segoe UI', Ubuntu, Sans-Serif"
-         font-size="8.5px"
-         font-weight="600"
-         letter-spacing="0.6"
-         fill="#ffffff"
-         id="text5">CADET</text>
-    </g>
-    <line
-       x1="22.584101"
-       y1="145"
-       x2="237.72073"
-       y2="145"
-       stroke="#828282"
-       stroke-opacity="0.38"
-       id="line5-4"
-       style="stroke-width:0.806201" />
-    <g
-       id="g5"
-       transform="translate(0.35921938)">
-      <text
-         class="label"
-         x="23"
-         y="91"
-         id="text6"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif">INTRA LEVEL</text>
-      <text
-         class="value"
-         x="23"
-         y="119"
-         data-profile-field="level"
-         id="text7"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif">Lvl 1 - 39%</text>
-    </g>
-    <line
-       x1="113.70297"
-       y1="80"
-       x2="113.70297"
-       y2="134"
-       stroke="#828282"
-       stroke-opacity="0.38"
-       id="line7" />
-    <g
-       id="g4"
-       transform="translate(-29.390781)">
-      <text
-         class="label"
-         x="162"
-         y="91"
-         id="text8"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif">CURRENT PROJECT</text>
-      <text
-         class="value"
-         x="162"
-         y="119"
-         data-profile-field="project"
-         id="text9"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif">get_next_line</text>
-    </g>
-    <g
-       id="g6">
-      <circle
-         cx="26.359219"
-         cy="164"
-         r="3"
-         fill="#828282"
-         id="circle9" />
-      <text
-         class="muted"
-         x="36.359219"
-         y="167"
-         id="text10"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9px;line-height:normal;font-family:'Segoe UI', Ubuntu, Sans-Serif">42 MADRID</text>
-    </g>
-  </g>
-  <metadata
-     id="metadata3">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:title>42 Madrid Stats — ruben-am</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+
+  <!-- Square card artwork: 195x195. Transparent space on the right preserves
+       the existing README <img width="300"> layout without editing the README. -->
+  <rect x="0.5" y="0.5" width="194" height="194" rx="4.5"
+        stroke="#e4e2e2" stroke-width="1" fill="#0D1117" />
+
+  <!-- Header -->
+  <rect x="15" y="14" width="34" height="34" rx="6.5"
+        fill="#0D1117" stroke="#828282" stroke-opacity="0.75" />
+  <text x="32" y="35.5" text-anchor="middle"
+        font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="15.5" font-weight="700"
+        fill="#FFFFFF">42</text>
+  <text class="header" x="58" y="29.5">ruben-am</text>
+  <text class="eyebrow" x="58" y="42.5">42 MADRID | CADET</text>
+
+  <line x1="15" y1="59" x2="180" y2="59"
+        stroke="#828282" stroke-opacity="0.38" />
+
+  <!-- Stacked stats keep the card square and avoid squeezing long project names. -->
+  <text class="label" x="16" y="78">INTRA LEVEL</text>
+  <text class="value" x="16" y="99">1 - 39%</text>
+
+  <line x1="15" y1="111" x2="180" y2="111"
+        stroke="#828282" stroke-opacity="0.38" />
+
+  <text class="label" x="16" y="130">CURRENT PROJECT</text>
+  <text class="value" x="16" y="151">get_next_line</text>
+
+  <line x1="15" y1="164" x2="180" y2="164"
+        stroke="#828282" stroke-opacity="0.38" />
+  <circle cx="18" cy="179" r="2.5" fill="#828282" />
+  <text class="muted" x="27" y="182">42 MADRID</text>
 </svg>
