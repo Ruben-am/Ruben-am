@@ -1,7 +1,7 @@
 <svg
-  width="150.98787"
+  width="170"
   height="195"
-  viewBox="0 0 150.98787 195"
+  viewBox="0 0 170 195"
   fill="none"
   xmlns="http://www.w3.org/2000/svg"
   role="img"
@@ -14,15 +14,29 @@
   </desc>
 
   <style>
+    /* Header typography */
     .header {
-      font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif;
+      font: 600 17px 'Segoe UI', Ubuntu, Sans-Serif;
       fill: #FFFFFF;
       animation: fadeInAnimation 0.8s ease-in-out forwards;
     }
 
+    @supports (-moz-appearance: auto) {
+      .header {
+        font-size: 15.5px;
+      }
+    }
+
+    /* Same typography and muted color family as GitHub Stats */
     .stat {
-      font: 600 12px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif;
+      font: 600 13px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif;
       fill: #828282;
+    }
+
+    @supports (-moz-appearance: auto) {
+      .stat {
+        font-size: 12px;
+      }
     }
 
     .bold {
@@ -30,18 +44,20 @@
     }
 
     .subtitle {
-      font: 600 8px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;
+      font: 600 9px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;
       letter-spacing: 0.45px;
       fill: #828282;
     }
 
     .location {
-      font: 600 9px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;
+      font: 600 10px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;
       fill: #828282;
     }
 
+    /* GitHub Stats staggered fade-in */
     .stagger {
-      animation: fadeInAnimation 0.3s ease-in-out both;
+      opacity: 0;
+      animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
 
     .logo-mark {
@@ -50,6 +66,7 @@
       animation: scaleInAnimation 0.3s ease-in-out 0.1s both;
     }
 
+    /* Intra progress bar */
     .progress-track {
       stroke: #FFFFFF;
       stroke-width: 3;
@@ -62,8 +79,8 @@
       stroke-width: 3;
       stroke-linecap: round;
       opacity: 0.8;
-      stroke-dasharray: 39.39;
-      stroke-dashoffset: 39.39;
+      stroke-dasharray: 46.8;
+      stroke-dashoffset: 46.8;
       animation: progressAnimation 1s ease-in-out 0.65s forwards;
     }
 
@@ -89,7 +106,7 @@
 
     @keyframes progressAnimation {
       from {
-        stroke-dashoffset: 39.39;
+        stroke-dashoffset: 46.8;
       }
       to {
         stroke-dashoffset: 0;
@@ -117,7 +134,7 @@
     x="0.5"
     y="0.5"
     rx="4.5"
-    width="149.98787"
+    width="169"
     height="194"
     stroke="#e4e2e2"
     stroke-width="1"
@@ -159,15 +176,15 @@
 
     <g data-testid="identity-group">
       <text
-        x="62"
-        y="41"
+        x="65"
+        y="39"
         class="header"
         data-testid="header"
       >ralba-ma</text>
 
       <text
-        x="62"
-        y="53"
+        x="65"
+        y="52"
         class="subtitle stagger"
         style="animation-delay: 250ms"
         data-testid="curriculum"
@@ -180,7 +197,7 @@
 
     <text
       x="25"
-      y="75.5"
+      y="76"
       class="stat bold stagger"
       style="animation-delay: 450ms"
       data-testid="intra-level-label"
@@ -188,7 +205,7 @@
 
     <text
       x="25"
-      y="93.5"
+      y="96"
       class="stat bold stagger"
       style="animation-delay: 600ms"
       data-testid="intra-level-value"
@@ -197,18 +214,18 @@
     <line
       class="progress-track"
       x1="25"
-      y1="103"
-      x2="126"
-      y2="103"
+      y1="106"
+      x2="145"
+      y2="106"
       data-testid="progress-track"
     />
 
     <line
       class="progress-bar"
       x1="25"
-      y1="103"
-      x2="64.39"
-      y2="103"
+      y1="106"
+      x2="71.8"
+      y2="106"
       data-testid="progress-bar"
     />
 
@@ -218,7 +235,7 @@
 
     <text
       x="25"
-      y="125.5"
+      y="127.5"
       class="stat bold stagger"
       style="animation-delay: 750ms"
       data-testid="current-project-label"
@@ -226,7 +243,7 @@
 
     <text
       x="25"
-      y="145.5"
+      y="147.5"
       class="stat bold stagger"
       style="animation-delay: 900ms"
       data-testid="current-project-value"
