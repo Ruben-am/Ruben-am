@@ -179,7 +179,7 @@
       class="stat bold stagger"
       style="animation-delay: 600ms"
       data-testid="intra-level-value"
-    >Level 1 - 39%</text>
+    >Level 1 - 89%</text>
 
   </g>
 
@@ -209,7 +209,7 @@
       class="stat bold stagger"
       style="animation-delay: 900ms"
       data-testid="current-project-value"
-    >get_next_line</text>
+    >push_swap</text>
 
   </g>
 
