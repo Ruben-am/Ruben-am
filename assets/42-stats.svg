@@ -14,7 +14,6 @@
   </desc>
 
   <style>
-    /* Header typography */
     .header {
       font: 600 17px 'Segoe UI', Ubuntu, Sans-Serif;
       fill: #FFFFFF;
@@ -27,7 +26,6 @@
       }
     }
 
-    /* Same typography and muted color family as GitHub Stats */
     .stat {
       font: 600 13px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif;
       fill: #828282;
@@ -54,7 +52,7 @@
       fill: #828282;
     }
 
-    /* GitHub Stats staggered fade-in */
+    /* GitHub Stats-style staggered fade-in */
     .stagger {
       opacity: 0;
       animation: fadeInAnimation 0.3s ease-in-out forwards;
@@ -66,7 +64,7 @@
       animation: scaleInAnimation 0.3s ease-in-out 0.1s both;
     }
 
-    /* Intra progress bar */
+    /* Intra level progress */
     .progress-track {
       stroke: #FFFFFF;
       stroke-width: 3;
@@ -148,20 +146,8 @@
       style="animation-delay: 100ms"
       data-testid="42-logo"
     >
-      <rect
-        x="25"
-        y="25"
-        width="30"
-        height="30"
-        rx="5.5"
-        fill="#0D1117"
-        stroke="#828282"
-        stroke-width="1"
-        stroke-opacity="0.75"
-      />
-
       <g
-        transform="matrix(0.875 0 0 0.875 28.9 28.9)"
+        transform="matrix(0.95 0 0 0.95 25 27.5)"
         fill="#FFFFFF"
       >
         <path
@@ -176,15 +162,15 @@
 
     <g data-testid="identity-group">
       <text
-        x="65"
-        y="39"
+        x="55"
+        y="36.5"
         class="header"
         data-testid="header"
       >ralba-ma</text>
 
       <text
-        x="65"
-        y="52"
+        x="55.5"
+        y="49.5"
         class="subtitle stagger"
         style="animation-delay: 250ms"
         data-testid="curriculum"
@@ -197,7 +183,7 @@
 
     <text
       x="25"
-      y="76"
+      y="74"
       class="stat bold stagger"
       style="animation-delay: 450ms"
       data-testid="intra-level-label"
@@ -205,7 +191,7 @@
 
     <text
       x="25"
-      y="96"
+      y="94"
       class="stat bold stagger"
       style="animation-delay: 600ms"
       data-testid="intra-level-value"
@@ -214,18 +200,18 @@
     <line
       class="progress-track"
       x1="25"
-      y1="106"
+      y1="103"
       x2="145"
-      y2="106"
+      y2="103"
       data-testid="progress-track"
     />
 
     <line
       class="progress-bar"
       x1="25"
-      y1="106"
+      y1="103"
       x2="71.8"
-      y2="106"
+      y2="103"
       data-testid="progress-bar"
     />
 
@@ -235,7 +221,7 @@
 
     <text
       x="25"
-      y="127.5"
+      y="125.5"
       class="stat bold stagger"
       style="animation-delay: 750ms"
       data-testid="current-project-label"
@@ -243,7 +229,7 @@
 
     <text
       x="25"
-      y="147.5"
+      y="145.5"
       class="stat bold stagger"
       style="animation-delay: 900ms"
       data-testid="current-project-value"
