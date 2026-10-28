@@ -9,7 +9,7 @@
 >
   <title id="titleId">ralba-ma — 42 Madrid Stats</title>
   <desc id="descId">
-    42 profile card showing Common Core, Intra level progress,
+    42 profile card showing Common Core, Intra level,
     current project and Madrid campus.
   </desc>
 
@@ -52,7 +52,6 @@
       fill: #828282;
     }
 
-    /* GitHub Stats-style staggered fade-in */
     .stagger {
       opacity: 0;
       animation: fadeInAnimation 0.3s ease-in-out forwards;
@@ -63,23 +62,12 @@
       transform-origin: center;
       animation: scaleInAnimation 0.3s ease-in-out 0.1s both;
     }
-
-    /* Intra level progress */
-    .progress-track {
-      stroke: #FFFFFF;
-      stroke-width: 3;
+    
+    .separator {
+      stroke: #828282;
+      stroke-width: 0.75;
+      stroke-opacity: 0.4;
       stroke-linecap: round;
-      opacity: 0.2;
-    }
-
-    .progress-bar {
-      stroke: #FFFFFF;
-      stroke-width: 3;
-      stroke-linecap: round;
-      opacity: 0.8;
-      stroke-dasharray: 46.8;
-      stroke-dashoffset: 46.8;
-      animation: progressAnimation 1s ease-in-out 0.65s forwards;
     }
 
     @keyframes fadeInAnimation {
@@ -102,27 +90,13 @@
       }
     }
 
-    @keyframes progressAnimation {
-      from {
-        stroke-dashoffset: 46.8;
-      }
-      to {
-        stroke-dashoffset: 0;
-      }
-    }
-
     @media (prefers-reduced-motion: reduce) {
       .header,
       .stagger,
-      .logo-mark,
-      .progress-bar {
+      .logo-mark {
         animation: none;
         opacity: 1;
         transform: none;
-      }
-
-      .progress-bar {
-        stroke-dashoffset: 0;
       }
     }
   </style>
@@ -147,7 +121,7 @@
       data-testid="42-logo"
     >
       <g
-        transform="matrix(0.95 0 0 0.95 25 27.5)"
+        transform="matrix(1.15 0 0 1.15 25 25.5)"
         fill="#FFFFFF"
       >
         <path
@@ -162,14 +136,14 @@
 
     <g data-testid="identity-group">
       <text
-        x="55"
+        x="60"
         y="36.5"
         class="header"
         data-testid="header"
       >ralba-ma</text>
 
       <text
-        x="55.5"
+        x="60.5"
         y="49.5"
         class="subtitle stagger"
         style="animation-delay: 250ms"
@@ -179,11 +153,21 @@
 
   </g>
 
+  <line
+    class="separator stagger"
+    style="animation-delay: 350ms"
+    x1="25"
+    y1="60"
+    x2="145"
+    y2="60"
+    data-testid="separator-header"
+  />
+
   <g data-testid="intra-level">
 
     <text
       x="25"
-      y="74"
+      y="77"
       class="stat bold stagger"
       style="animation-delay: 450ms"
       data-testid="intra-level-label"
@@ -191,37 +175,29 @@
 
     <text
       x="25"
-      y="94"
+      y="95"
       class="stat bold stagger"
       style="animation-delay: 600ms"
       data-testid="intra-level-value"
     >Level 1 - 39%</text>
 
-    <line
-      class="progress-track"
-      x1="25"
-      y1="103"
-      x2="145"
-      y2="103"
-      data-testid="progress-track"
-    />
-
-    <line
-      class="progress-bar"
-      x1="25"
-      y1="103"
-      x2="71.8"
-      y2="103"
-      data-testid="progress-bar"
-    />
-
   </g>
+
+  <line
+    class="separator stagger"
+    style="animation-delay: 700ms"
+    x1="25"
+    y1="105"
+    x2="145"
+    y2="105"
+    data-testid="separator-intra"
+  />
 
   <g data-testid="current-project">
 
     <text
       x="25"
-      y="125.5"
+      y="121"
       class="stat bold stagger"
       style="animation-delay: 750ms"
       data-testid="current-project-label"
@@ -229,13 +205,23 @@
 
     <text
       x="25"
-      y="145.5"
+      y="139"
       class="stat bold stagger"
       style="animation-delay: 900ms"
       data-testid="current-project-value"
     >get_next_line</text>
 
   </g>
+
+  <line
+    class="separator stagger"
+    style="animation-delay: 950ms"
+    x1="25"
+    y1="149"
+    x2="145"
+    y2="149"
+    data-testid="separator-project"
+  />
 
   <g
     class="stagger"
@@ -244,14 +230,14 @@
   >
     <circle
       cx="27"
-      cy="164"
+      cy="163.5"
       r="2"
       fill="#828282"
     />
 
     <text
       x="34"
-      y="167.5"
+      y="167"
       class="location"
       data-testid="campus-label"
     >Madrid</text>
