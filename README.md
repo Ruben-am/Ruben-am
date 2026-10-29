@@ -68,7 +68,7 @@
 </p>
 
 ---
-### GitHub Stats
+### GitHub and 42 Stats
 
 <p align="center">
     <img
