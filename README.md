@@ -21,6 +21,11 @@
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/c/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/c/000000">
+    <img alt="C" width="45" src="https://cdn.simpleicons.org/c/000000">
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/java_white.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/java_black.svg">
     <img alt="Java" width="45" src="./assets/java_black.svg">
