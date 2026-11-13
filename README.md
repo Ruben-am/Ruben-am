@@ -10,10 +10,10 @@
 
 ### About Me
 
-- I like working on both frontend and backend to build complete and functional applications.
-- I'm interested in native Android development and how software work internally.
-- I enjoy learning by building projects and refining how I structure code.
-- I built my programming foundations studying DAM and started at 42 Madrid.
+- I build full-stack applications, integrating frontend interfaces, APIs, and backend services.
+- After DAM, I'm developing my skills at 42 Madrid through peer learning.
+- I'm interested in native Android development and software architecture.
+- I learn through projects, focusing on clean, maintainable code.
 
 ---
 
