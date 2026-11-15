@@ -1,5 +1,11 @@
 <h1 align="center">Hi, I'm Rubén</h1>
 
+<h4 align="center">
+  I'm a Software Developer interested in Full-Stack and native Android development.
+</h4>
+
+##
+
 <img src="./assets/SideImage2.jpg" alt="SideImage" width="30%" align="right" />
 
 ### About Me
