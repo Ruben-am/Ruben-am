@@ -179,7 +179,7 @@
       class="stat bold stagger"
       style="animation-delay: 600ms"
       data-testid="intra-level-value"
-    >Level 2 - 64%</text>
+    >Level 2 - 67%</text>
 
   </g>
 
@@ -209,7 +209,7 @@
       class="stat bold stagger"
       style="animation-delay: 900ms"
       data-testid="current-project-value"
-    >Python module 00</text>
+    >Python module 01</text>
 
   </g>
 
